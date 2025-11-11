@@ -115,7 +115,7 @@ parkinsons-voice-detector/
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/<your-username>/parkinsons-voice-detector.git
+   https://github.com/The-Infernix/Parkinson-detection-model.git
    cd parkinsons-voice-detector
    ```
 2. Create and activate a virtual environment
