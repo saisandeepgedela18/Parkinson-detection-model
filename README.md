@@ -73,7 +73,7 @@ You can replace the RandomForest with an SVM or XGBoost for experimentation.
 To launch the app locally:
 
 ```bash
-streamlit run app.py
+run app.py
 ```
 
 Then open:
