@@ -153,3 +153,14 @@ The Random Forest model achieved **~90% accuracy** on the UCI dataset, demonstra
 Dataset source: UCI Machine Learning Repository
 Hackathon hosted by: CSA Hackathon Committee
 
+## My Contribution
+
+- Designed and implemented the vocal analysis pipeline
+- Performed voice-based feature extraction using Librosa and Praat-Parselmouth
+- Analyzed speech biomarkers associated with Parkinson's disease
+- Contributed to model evaluation and performance improvement
+- Assisted in project testing, documentation, and presentation
+
+### Achievement
+
+🥈 Secured 2nd Place at HackSphere 2.0 National-Level Hackathon.
